@@ -6,7 +6,7 @@ The purpose of this project is to test a candidate's programming aptitude, style
 
 ## Scenario
 
-Design and deployment a web based application that allows a user to locate other users using GPS. Essentially a find my friends application that should meet the following criteria:
+Design and deploy a web based application that allows a user to locate other users using GPS. Essentially a find my friends application that should meet the following criteria:
 
 * Application must be able to update the user's current location.
 * Must have find other users feature, by username and everyone.
