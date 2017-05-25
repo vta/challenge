@@ -6,33 +6,29 @@ The purpose of this project is to test a candidate's programming aptitude, style
 
 ## Scenario
 
-Design and deploy a web based application that allows a user to locate other users using GPS. Essentially a find my friends application that should meet the following criteria:
+Design and deploy a web based application to collect a user's location. A simple form that helps a user say, "I am here!" and now other users can find that person.  The webform should display on demand the current user's location and other users recent locations.
 
-* Application must be able to update the user's current location.
-* Must have find other users feature, by username and everyone.
-* UI should display heading and distance to other users in Imperial units.
-* UI must display current Street Address for current user.
-* Storage of data must make use of database.
-* RESTful API should have `GET` and `POST` methods for user data.
-* UI must be responsive and be consistent on phone and laptop.
+* Application must be able to input the user's name and current location.
+* Locations and names must be stored.
+* Retrieve all recent locations with user's names on command
+* Visualize the recent users's locations on a map
 
 ## Rules
 
 1. Choose from the following programming languages:
 
- *Java, NodeJS, PHP, Python and/or Ruby*
+ *Java, Go, PHP, Python, Ruby, and/or HTML/Javascript/NodeJS *
 
-2. Utilize an appropriate framework for RESTful API
-
-3. Utilize a database to store information
+2. Utilize a database or service to store information
 
 4. Make use of GitHub for development: commits, PRs, issues
 
 5. Provide documentation for deployment
 
 ## Extra Points
-* Perform some GeoSpatial analysis with user's GPS data.
-* Package everything inside a Docker container
-* Add history of GPS locations for users
-* Create recover password option for user accounts
-* Find nearest restaurant, gas station, etc... using Google Places
+
+* Create a nice UI that is responsive and consistent on phone and laptop.
+* Use a web framework for the UI
+* For the database, Create a RESTful API with an appropriate framework (if appropriate) 
+* Package application inside a Docker container
+* Help user find the nearest restaurant, gas station, etc... using Google Places
