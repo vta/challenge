@@ -6,11 +6,11 @@ The purpose of this project is to test a candidate's programming aptitude, style
 
 ## Scenario
 
-Design and deploy a web based application to collect a user's location. A simple form that helps a user say, "I am here!" and now other users can find that person.  The webform should display on demand the current user's location and other users recent locations.
+Design and deploy a web based application to collect a user's location. A simple form that helps a user say, "I am here!" and now other users can find that person.  The webform should display on demand the current user's location and other users most recent location.
 
 * Application must be able to input the user's name and current location.
 * Locations and names must be stored.
-* Retrieve all recent locations with user's names on command
+* Retrieve the most recent locations for each user's names on command
 * Visualize the recent users's locations on a map
 
 ## Rules
