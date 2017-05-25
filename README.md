@@ -17,13 +17,13 @@ Design and deploy a web based application to collect a user's location. A simple
 
 1. Choose from the following programming languages:
 
- *Java, Go, PHP, Python, Ruby, and/or HTML/Javascript/NodeJS *
+ *Java, Go, PHP, Python, Ruby, NodeJS, and/or HTML/Javascript/CSS *
 
 2. Utilize a database or service to store information
 
-4. Make use of GitHub for development: commits, PRs, issues
+3. Make use of GitHub for development: commits, PRs, issues
 
-5. Provide documentation for deployment
+4. Provide documentation for deployment
 
 ## Extra Points
 
