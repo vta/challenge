@@ -13,15 +13,17 @@ Design and deploy a web based application to collect a user's location. A simple
 * Retrieve the most recent locations for each user's names on command
 * Visualize the recent users's locations on a map
 
-## Rules
+## Instructions
 
-1. Choose from the following programming languages:
+**DO NOT Fork This Repository**
 
+1. Make use of GitHub for development: commits, PRs, issues<br />
+ *Create a private GitHub repository for this coding challenge*
+
+2. Choose from the following programming languages:<br />
  *Java, Go, PHP, Python, Ruby, NodeJS, and/or HTML/Javascript/CSS*
 
-2. Utilize a database or service to store information
-
-3. Make use of GitHub for development: commits, PRs, issues
+3. Utilize a database or service to store information
 
 4. Provide documentation for deployment
 
