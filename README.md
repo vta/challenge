@@ -18,7 +18,7 @@ Design and deploy a web based application to collect a user's location. A simple
 **DO NOT Fork This Repository**
 
 1. Make use of GitHub for development: commits, PRs, issues<br />
- *Create a private GitHub repository for this coding challenge*
+ *Create a private GitHub, GitLab or BitBucket repository for this coding challenge*
 
 2. Choose from the following programming languages:<br />
  *Java, Go, PHP, Python, Ruby, NodeJS, and/or HTML/Javascript/CSS*
